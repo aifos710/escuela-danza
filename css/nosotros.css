@@ -1,1 +1,41 @@
-/* Inserta tu codigo aqui */
+.one{
+	background-image: url(../img/dance_7.jpg);
+	height: 500px;
+	background-repeat: no-repeat;
+}
+
+.in{
+	height: 200px;
+	width: 400px;
+	background-color:black;
+	opacity: 0.5;
+	position: relative;
+	top: 150px;
+	padding-top: 10px;
+}
+
+.two{
+	background-image: url(../img/cubes.png);
+	height: 300px;
+	padding-top: 50px;
+}
+
+.four{
+	background-image: url(../img/cubes.png);
+	height: 300px;
+	padding-top: 120px;
+}
+
+.frase{
+	font-size: 36px;
+}
+
+.we{
+	height: 180px;
+    overflow: hidden;
+}
+
+.white{
+	color:#ffffff;
+}
+

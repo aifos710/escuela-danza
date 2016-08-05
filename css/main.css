@@ -65,7 +65,6 @@ span{
 
 .m-0{
 	margin:0px;
-
 }
 
 h3{
@@ -130,35 +129,33 @@ iframe{
 }
 
 p{
-    color:#ffffff;
+    color:#C3C6C5;
     font-size: 14px;
 }
 
-.i1{
-	background-image: url('http://rexkirby.com/kirbyandson/images/name.svg');
+.i{
 	background-size: 6%;
     background-repeat: no-repeat;
     background-position: left;
     height: 50px;
     width: 462px;
+    padding-left: 40px;
+    margin-bottom: 15px;
+    border-style: 1px solid #DAD7D7;
+}
+.i1{
+	background-image: url('http://rexkirby.com/kirbyandson/images/name.svg');    
 }
 
 .i2{
 	background-image: url('http://rexkirby.com/kirbyandson/images/email.svg');
-	background-size: 6%;
-    background-repeat: no-repeat;
-    background-position: left;
-    height: 50px;
-    width: 462px;
 }
 
-.i3{
+textarea{
 	background-image: url('http://rexkirby.com/kirbyandson/images/comment.svg');
     background-repeat: no-repeat;
     background-size: 6%;
     background-position: left;
-    height:122px;
-    width: 462px;
 }
 
 .five{
@@ -166,3 +163,16 @@ p{
 	background-repeat: no-repeat;
     background-position-x:  600px;
 }   
+
+.i4{
+	background-color: #192951;
+	border:none;
+	width: 462px;
+	height: 70px;
+	color: #C3C6C5;
+}
+
+footer{
+	background-color: #192951;
+	font-size: 20px;
+}

@@ -1,1 +1,104 @@
-/* Inserta tu codigo que es común para todas las páginas aqui */
+/*css header*/
+*{
+	box-sizing: border-box;
+
+}
+
+header{
+	padding-bottom: 30px;
+}
+
+a{
+	text-decoration: none;
+	list-style:none;
+	margin-right: 30px;
+	margin-left: 30px;
+	color: #8F8FB3;
+} 
+
+h3{
+    color: #192951;
+}
+
+/*css footer*/
+
+.i{
+	background-size: 6%;
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 50px;
+    width: 462px;
+    padding-left: 40px;
+    margin-bottom: 15px;
+    border-style: 1px solid #DAD7D7;
+}
+.i1{
+	background-image: url('http://rexkirby.com/kirbyandson/images/name.svg');    
+}
+
+.i2{
+	background-image: url('http://rexkirby.com/kirbyandson/images/email.svg');
+}
+
+textarea{
+	background-image: url('http://rexkirby.com/kirbyandson/images/comment.svg');
+    background-repeat: no-repeat;
+    background-size: 6%;
+    background-position: left;
+}
+
+.five{
+	background-image: url(../img/shoes_1.jpg);
+	background-repeat: no-repeat;
+    background-position-x:  600px;
+}   
+
+.i4{
+	background-color: #192951;
+	border:none;
+	width: 462px;
+	height: 70px;
+	color: #C3C6C5;
+}
+
+footer{
+	background-color: #192951;
+	font-size: 20px;
+}
+
+
+/*general*/
+
+button{
+	border-radius: 3px;
+}
+
+.p1{
+	font-size: 16px;
+}
+
+.m-0{
+	margin:0px;
+}
+
+h3{
+    color: #192951;
+}
+
+cite{
+	font-size: 24px;
+}
+
+p{
+    color:#C3C6C5;
+    font-size: 14px;
+}
+
+button, span{
+	color: #C3C6C5;
+}
+
+span{
+	font-size: 50px;
+	margin-top: 50px;
+}
