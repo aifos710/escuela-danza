@@ -1,1 +1,40 @@
-/* Inserta tu codigo aqui */
+.one{
+	background-color: #E2DFDF;
+    height:1104px;
+    padding-top: 20px;
+}
+
+.bb{
+	background-color: #112c4c;
+	color: #ffffff;
+	border-style: none;
+	width: 250px;
+	height: 40px;
+}
+
+.poster{
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 220px;
+}
+
+.fondo{
+    height: 288px;
+    background-color: #D9D7D7;
+}
+
+.uno{
+    background-image: url("../img/blog1.jpg");
+}
+
+.dos{
+    background-image: url("../img/propfesor_5.jpg");
+}
+
+.tres{
+     background-image: url("../img/instructor_1.jpg"); 
+}
+
+p{
+	color: white!important;
+}

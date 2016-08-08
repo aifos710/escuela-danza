@@ -1,31 +1,43 @@
-
+.oferta{
+    background-color: #E2DFDF;
+    height: 874px;
+    padding-top: 20px;
+}
 
 .uno{
     background-image: url("../img/dance_12.jpg");
+    background-position-y:-40px; 
 }
 
 .dos{
     background-image: url("../img/breakdance.jpg");
+    background-position-y:-89px; 
 }
 
 .tres{
     background-image: url("../img/lirical-jazz.jpg");
+    background-position-y:-89px; 
 }
 
 .cuatro{
     background-image: url("../img/arabe.jpg");
+    background-position-y:-89px; 
 }
 
 .cinco{
     background-image: url("../img/little.jpg");
+    background-position-y:-59px; 
 }
 
 .seis{
     background-image: url("../img/yoga.jpg");
+    background-position-y:-34px; 
 }
 
 .poster{
 	height:350px;
+    background-size: cover;
+    background-repeat: no-repeat;
 
 }
 
@@ -33,5 +45,16 @@
 	background-color: black;
 	opacity: 0.5;
 	position: absolute;
-	bottom: 20px;
+	bottom: 102px;
+    height:134px ;
+    width:253px; 
+    color:#f7f5f5;  
+}
+
+.p{
+    text-height:1;
+}
+
+h4{
+    color: #f7f5f5 !important;
 }
